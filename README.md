@@ -1,2 +1,2 @@
 # hellodemo
-This is my first repository Author:Sheikh MUfasir Mehmood
+This is my first repository Author:Sheikh Mufasir Mehmood
